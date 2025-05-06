@@ -1,0 +1,81 @@
+# === macOS ===
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# === Visual Studio / VS for Mac ===
+.vs/
+Microsoft/VisualStudio Services/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.csproj.user
+*.pidb
+*.userprefs
+*.db
+
+# === xbuild / MonoDevelop ===
+xbuild/
+*.pidb
+*.dll
+*.exe
+
+# === Fish shell config backup ===
+fish/*.history
+fish/functions/*.fish~
+fish/*.save
+
+# === Neovim ===
+nvim/backup/
+nvim/swap/
+nvim/undo/
+nvim/.netrwhist
+
+# === System files ===
+*.swp
+*.swo
+*.swn
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# === dotfiles/macOS-specific configs ===
+dotfiles_macos/
+
+# === Logs & temporary files ===
+*.log
+*.tmp
+*.bak
+*.old
+*~
+
+# === Node.js / JS projects (if used) ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+
+# Cache directories
+**/Cache/
+**/*.cache
+
+# VS Code and Visual Studio related
+.vs/
+.vscode/
+Microsoft/VisualStudio Services/
+
+# Node modules
+**/node_modules/
+
+# Fish shell history and local files
+fish/fish_history
+fish/*.save
+fish/local-config.fish
+
+# macOS system files
+.DS_Store
+
