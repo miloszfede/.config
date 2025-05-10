@@ -13,5 +13,7 @@
   "omnisharp-vim": { "branch": "master", "commit": "cdbf65bc4385d7026428d2f392b40a317725cc9c" },
   "plenary.nvim": { "branch": "master", "commit": "857c5ac632080dba10aae49dba902ce3abf91b35" },
   "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
-  "vim-moonfly-colors": { "branch": "master", "commit": "164888b0140d6a4ba3f5ec5d760d46fb6a417d7a" }
+  "ultisnips": { "branch": "master", "commit": "dbc458e110bb49299da76ec53f8b09b4f6dce28a" },
+  "vim-moonfly-colors": { "branch": "master", "commit": "164888b0140d6a4ba3f5ec5d760d46fb6a417d7a" },
+  "vim-sharpenup": { "branch": "master", "commit": "1c309e0fade7e3049a730a88b89ff722b993b6c3" }
 }
