@@ -80,3 +80,6 @@ fish/local-config.fish
 .DS_Store
 .zed
 /zed
+
+# === Raycast ===
+raycast/
