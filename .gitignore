@@ -78,4 +78,5 @@ fish/local-config.fish
 
 # macOS system files
 .DS_Store
-
+.zed
+/zed
