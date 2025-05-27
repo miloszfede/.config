@@ -23,11 +23,6 @@ xbuild/
 *.dll
 *.exe
 
-# === Fish shell config backup ===
-fish/*.history
-fish/functions/*.fish~
-fish/*.save
-
 # === Neovim ===
 nvim/backup/
 nvim/swap/
@@ -70,11 +65,6 @@ Microsoft/VisualStudio Services/
 
 # Node modules
 **/node_modules/
-
-# Fish shell history and local files
-fish/fish_history
-fish/*.save
-fish/local-config.fish
 
 # macOS system files
 .DS_Store
